@@ -3,7 +3,7 @@ certifi==2018.4.16
 chardet==3.0.4
 Django==2.0.7
 django-filter==2.0.0
-djangorestframework==3.8.2
+djangorestframework==3.9.1
 djangorestframework-gis==0.13
 drfapikey==0.0.3
 idna==2.7
